@@ -1,0 +1,66 @@
+﻿  CMap.cpp
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(81,7): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(82,7): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(101,34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,17): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,17): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,24): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,24): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,49): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,49): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,20): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,20): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,39): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,39): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,59): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,59): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,78): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,78): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(77,10): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(82,10): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(87,14): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(92,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\imageManager.h(23,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\randomFunction.h(9,41): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\randomFunction.h(19,47): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\CMap.cpp(27,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\CMap.cpp(46,23): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  PlayerState.cpp
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(81,7): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(82,7): warning C4244: '=': 'const int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\vector2.h(101,34): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,17): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,17): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,24): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,24): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,34): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,34): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,49): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(35,49): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,20): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,20): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,39): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,39): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,59): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,59): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,78): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(41,78): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(77,10): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(82,10): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(87,14): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\commonMacroFunction.h(92,15): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\image.h(139,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\image.h(139,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\imageManager.h(23,95): warning C4114: 동일한 형식 한정자를 두 번 이상 사용했습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\randomFunction.h(9,41): warning C4244: '인수': 'ULONGLONG'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\randomFunction.h(19,47): warning C4244: 'return': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다.
+  0 of 2720 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  API_FrameWork.vcxproj -> C:\Users\zzaho\source\repos\20210805~20210819_팀프로젝트_1조\팀프로젝트(WINAPI)2주_1조\Release\API_FrameWork.exe
